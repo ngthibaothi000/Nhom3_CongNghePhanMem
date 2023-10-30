@@ -1,0 +1,59 @@
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.exe.config
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.exe
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.pdb
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Form1.resources
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Properties.Resources.resources
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.exe
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.pdb
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.exe.config
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.exe
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.pdb
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.AssemblyReference.cache
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Đăng_Ký.resources
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Login.resources
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Properties.Resources.resources
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.GenerateResource.cache
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.CoreCompileInputs.cache
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.exe
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.pdb
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.exe.config
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.exe
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.pdb
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.AssemblyReference.cache
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Login.resources
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Properties.Resources.resources
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.GenerateResource.cache
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.exe
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.pdb
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Giaodienhethong.resources
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\EntityFramework.dll
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\EntityFramework.SqlServer.dll
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\EntityFramework.xml
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\EntityFramework.SqlServer.xml
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.CopyComplete
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.exe.config
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.exe
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.pdb
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Properties.Resources.resources
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.CopyComplete
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.exe
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.pdb
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.frmHoaDon.resources
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.frmKhachHang.resources
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.frmMain.resources
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.frmDangNhap.resources
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.frmNhanVien.resources
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.frmSanPham.resources
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.frmTimKiem.resources
+C:\Users\ASUS\Downloads\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.frmNhaCungCap.resources
